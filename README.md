@@ -12,7 +12,10 @@
   <tr>
     <!-- Left Sidebar (Profile) -->
     <td width="35%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+      <!-- Profile Headshot -->
+      <img src="https://your-image-link-here.jpg" width="180" height="180" style="border-radius:50%;" alt="Profile Headshot">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=SummerMeng&show_icons=true&theme=radical" alt="GitHub Stats">
       <br><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" alt="Profile Summary">
       <br><br>
