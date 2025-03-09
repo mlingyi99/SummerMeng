@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Data+Science+%7C+Machine+Learning">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Welcome+to+Summer's+GitHub+Profile!+👋;AI+%7C+Big+Data+%7C+Data+Science+%7C+Machine+Learning+%7C+PMP+%7C+BI">
 </p>
 
 <!-- Black Background Effect -->
@@ -17,7 +17,7 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=SummerMeng&show_icons=true&theme=radical" alt="GitHub Stats">
       <br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" alt="Profile Summary">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SummerMeng&theme=radical" alt="Profile Summary">
       <br><br>
       <h2>👨‍💻 About Me</h2>
       <ul align="left">
@@ -32,11 +32,7 @@
         <a href="https://www.linkedin.com/in/lingyi-summer-meng-pmp-053193103/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
         </a>
-        <a href="https://twitter.com/your-profile" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter">
-        </a>
-      </p>
-    </td>
+
 
 <!-- Right Sidebar (Projects, Tech Stack, Stats) -->
 <td width="65%" valign="top">
@@ -63,12 +59,10 @@
       <ul align="left">
         <li>📚 <b>Master of Science in Information System Technology</b><br>
           🎓 <b>George Washington University</b> 🇺🇸 <br>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/George_Washington_University_seal.svg/150px-George_Washington_University_seal.svg.png" width="80">
         </li>
         <br>
         <li>📚 <b>Master of Science in Data Science</b><br>
           🎓 <b>University of Pittsburgh</b> 🇺🇸 <br>
-          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/University_of_Pittsburgh_seal.svg/120px-University_of_Pittsburgh_seal.svg.png" width="80">
         </li>
       </ul>
 
