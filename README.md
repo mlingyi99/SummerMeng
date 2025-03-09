@@ -13,7 +13,7 @@
     <!-- Left Sidebar (Profile) -->
     <td width="35%" valign="top" align="center">
       <!-- Profile Headshot -->
-      <img src="https://your-image-link-here.jpg" width="180" height="180" style="border-radius:50%;" alt="Profile Headshot">
+      <img src="https://github.com/mlingyi99/SummerMeng/blob/main/profile.jpg" width="280" height="380" style="border-radius:50%;" alt="Profile Headshot">
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=SummerMeng&show_icons=true&theme=radical" alt="GitHub Stats">
       <br><br>
@@ -57,7 +57,7 @@
 
 <h2>📊 GitHub Stats</h2>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="Streak Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SummerMeng&theme=dark" alt="Streak Stats">
       </p>
   <h2>🎓 Education</h2>
       <ul align="left">
